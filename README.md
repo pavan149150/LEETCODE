@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavan149150/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/pavan149150/LEETCODE/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
