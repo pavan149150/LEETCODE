@@ -37,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/pavan149150/LEETCODE/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/pavan149150/LEETCODE/tree/master/1317-monthly-transactions-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pavan149150/LEETCODE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pavan149150/LEETCODE/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/pavan149150/LEETCODE/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
