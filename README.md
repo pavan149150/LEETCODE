@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavan149150/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavan149150/LEETCODE/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/pavan149150/LEETCODE/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pavan149150/LEETCODE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pavan149150/LEETCODE/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/pavan149150/LEETCODE/tree/master/1827-invalid-tweets) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/pavan149150/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
