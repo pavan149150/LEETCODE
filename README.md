@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/pavan149150/LEETCODE/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pavan149150/LEETCODE/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/pavan149150/LEETCODE/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/pavan149150/LEETCODE/tree/master/3816-dna-pattern-recognition) |
 ## Binary Search
 |  |
 | ------- |
